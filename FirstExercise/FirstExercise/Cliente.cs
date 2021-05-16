@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace cursoFoop_Exercicio_SOLID1
+namespace FirstExercise
 {
-    class Cliente
+    public class Cliente
     {
         public string Nome { get; set; }
         public string Pais { get; set; }
