@@ -1,0 +1,16 @@
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.exe
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.deps.json
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.runtimeconfig.json
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.runtimeconfig.dev.json
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.dll
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\ref\FirstExercise.dll
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\bin\Debug\net5.0\FirstExercise.pdb
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.csprojAssemblyReference.cache
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.AssemblyInfoInputs.cache
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.AssemblyInfo.cs
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.dll
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\ref\FirstExercise.dll
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.pdb
+C:\Projects\Udemy.AplicandoPrincipiosSOLID\FirstExercise\FirstExercise\obj\Debug\net5.0\FirstExercise.genruntimeconfig.cache
